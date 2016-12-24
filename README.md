@@ -11,11 +11,7 @@ In this project you will store your resume data in four javaScript objects. As i
 
 ######Locally
 
-**1.** Use Online Resume on your site?
-------------
-If you are looking to use Online Resume on your website please head to [Download](https://github.com/musaab-abdalla/frontend-nanodegree-resume/archive/master.zip).
-
-**2.** Clone this repo:
+**1.** Clone this repo:
 
 Clone the repo using Git:
 
@@ -23,7 +19,7 @@ Clone the repo using Git:
 git clone https://github.com/musaab-abdalla/frontend-nanodegree-resume.git
 ```
 
-**3.** Serve the application:
+**2.** Serve the application:
 
 ```
 $ python -m SimpleHTTPServer
@@ -31,7 +27,7 @@ $ python -m SimpleHTTPServer
 
 Detailed Python Simple Server instructions can been found [here](https://docs.python.org/2/library/basehttpserver.html).
 
-**4.** Open the application:
+**3.** Open the application:
 
 ```
 $ open "http://localhost:8000"
